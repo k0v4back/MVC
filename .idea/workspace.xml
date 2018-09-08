@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d21e9184-403f-4014-bc63-2aa503640dbf" name="Default" comment="" />
+=======
+    <list default="true" id="d21e9184-403f-4014-bc63-2aa503640dbf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/components/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/components/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/images/img07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/images/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/images/pic02.jpg" beforeDir="false" />
+    </list>
+>>>>>>> e1d3331288aa6dca6a805754ce801701365b2c9b
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +22,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/routes.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
               <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+<<<<<<< HEAD
             </state>
           </provider>
         </entry>
@@ -25,6 +37,8 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
               <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+=======
+>>>>>>> e1d3331288aa6dca6a805754ce801701365b2c9b
             </state>
           </provider>
         </entry>
@@ -44,7 +58,10 @@
         <option value="$PROJECT_DIR$/views/test/index.php" />
         <option value="$PROJECT_DIR$/components/Router.php" />
         <option value="$PROJECT_DIR$/config/routes.php" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/.gitignore" />
+=======
+>>>>>>> e1d3331288aa6dca6a805754ce801701365b2c9b
       </list>
     </option>
   </component>
@@ -77,6 +94,34 @@
               <item name="MVC" type="b2602c69:ProjectViewProjectNode" />
               <item name="MVC" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="MVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> e1d3331288aa6dca6a805754ce801701365b2c9b
           </expand>
           <select />
         </subPane>
@@ -112,12 +157,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536425840309</updated>
+<<<<<<< HEAD
       <workItem from="1536425845175" duration="4108000" />
+=======
+      <workItem from="1536425845175" duration="3033000" />
+>>>>>>> e1d3331288aa6dca6a805754ce801701365b2c9b
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="4108000" />
+=======
+    <option name="totallyTimeSpent" value="3033000" />
+>>>>>>> e1d3331288aa6dca6a805754ce801701365b2c9b
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -210,6 +263,7 @@
           <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
         </state>
       </provider>
+<<<<<<< HEAD
     </entry>
     <entry file="file://$PROJECT_DIR$/components/Db.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -232,6 +286,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+=======
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/db_params.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+>>>>>>> e1d3331288aa6dca6a805754ce801701365b2c9b
         </state>
       </provider>
     </entry>
