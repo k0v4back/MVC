@@ -1,13 +1,8 @@
 <?php
 
-use components\Router;
+require_once __DIR__ . '/vendor/autoload.php';
 
-spl_autoload_register(function ($class) {
-   $path = str_replace('\\', '/', $class.'.php');
-   if(file_exists($path)){
-       require $path;
-   }
-});
+use components\Router;
 
 
 ini_set('display_errors', 1);
